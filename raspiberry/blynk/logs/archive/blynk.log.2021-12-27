@@ -1,0 +1,375 @@
+10:39:39.061 INFO - Using data dir '/home/pi/blynk'
+10:39:41.369 INFO - Region : local. Host : 127.0.1.1.
+10:39:42.805 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+10:39:42.902 INFO - Reports : 0
+10:39:42.904 INFO - Didn't find custom user certificates.
+10:39:42.909 INFO - Didn't find Let's Encrypt certificates.
+10:39:42.909 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+10:39:42.909 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+10:39:57.324 INFO - HTTP API and WebSockets server listening at 8080 port.
+10:39:57.328 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+10:39:57.331 INFO - Mqtt hardware server listening at 8440 port.
+10:46:02.381 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+10:49:34.488 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:01:41.631 INFO - 929123714@qq.com hardware joined.
+11:01:46.021 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:06:27.855 INFO - 929123714@qq.com hardware joined.
+11:17:15.524 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:18:52.787 INFO - 929123714@qq.com hardware joined.
+11:21:44.099 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:23:10.820 INFO - 929123714@qq.com hardware joined.
+11:26:09.927 INFO - 929123714@qq.com hardware joined.
+11:27:02.656 INFO - 929123714@qq.com hardware joined.
+11:34:12.240 INFO - 929123714@qq.com hardware joined.
+11:34:16.894 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:39:34.427 INFO - 929123714@qq.com hardware joined.
+11:41:03.207 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:43:25.263 INFO - 929123714@qq.com hardware joined.
+11:44:27.058 INFO - 929123714@qq.com hardware joined.
+11:44:59.616 INFO - 929123714@qq.com hardware joined.
+11:47:32.853 INFO - 929123714@qq.com hardware joined.
+11:49:31.813 INFO - 929123714@qq.com hardware joined.
+11:50:32.942 INFO - 929123714@qq.com hardware joined.
+12:07:49.785 INFO - Updating config mail.properties. New body : 
+12:07:49.785 INFO - mail.smtp.starttls.enable=true
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.host=smtp.qq.com
+mail.smtp.username=929123714@qq.com
+mail.smtp.timeout=120000
+mail.smtp.password=wevgdiqqdkxhbccg
+mail.smtp.connectiontimeout=30000
+12:09:14.851 INFO - Updating config mail.properties. New body : 
+12:09:14.851 INFO - mail.smtp.starttls.enable=true
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.host=smtp.qq.com
+mail.smtp.username=929123714@qq.com
+mail.smtp.timeout=120000
+mail.smtp.password=poxugjaljgfybegb
+mail.smtp.connectiontimeout=30000
+12:12:12.007 INFO - 929123714@qq.com hardware joined.
+12:12:16.989 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:12:56.658 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:13:26.684 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:13:56.717 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:14:26.757 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:14:56.803 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:15:05.716 INFO - 929123714@qq.com hardware joined.
+12:15:26.833 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:15:56.909 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:16:26.958 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:16:56.983 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:17:05.816 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials br24sm17472202pjb.40 - gsmtp
+
+12:17:07.525 INFO - 929123714@qq.com hardware joined.
+12:17:11.164 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:17:35.857 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+12:17:44.560 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials z23sm15025667pfr.189 - gsmtp
+
+12:17:48.748 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:17:52.681 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t126sm12878832pgc.61 - gsmtp
+
+12:18:01.772 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials gf4sm14348250pjb.56 - gsmtp
+
+12:18:10.993 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k91sm17411398pja.1 - gsmtp
+
+12:18:19.049 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials i68sm5386297pfc.151 - gsmtp
+
+12:18:27.105 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v4sm14148876pjk.38 - gsmtp
+
+12:18:35.267 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials cv14sm9482789pjb.24 - gsmtp
+
+12:18:44.366 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g9sm15659784pfj.123 - gsmtp
+
+12:18:53.025 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y16sm15632536pfl.179 - gsmtp
+
+12:19:02.031 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials mv1sm17249410pjb.23 - gsmtp
+
+12:19:09.600 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k8sm16829864pfu.72 - gsmtp
+
+12:19:18.083 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t8sm14308594pfj.26 - gsmtp
+
+12:19:26.256 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y126sm15007246pfy.40 - gsmtp
+
+12:19:34.380 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials h11sm1723845pjs.10 - gsmtp
+
+12:19:42.525 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v6sm12628441pgj.82 - gsmtp
+
+12:19:51.099 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q9sm13216115pjg.1 - gsmtp
+
+12:20:00.290 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t10sm16144718pfg.105 - gsmtp
+
+12:20:08.442 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f7sm13448156pfe.71 - gsmtp
+
+12:20:17.399 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 32sm13108269pgs.48 - gsmtp
+
+12:20:25.545 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j16sm16907684pfj.16 - gsmtp
+
+12:20:33.939 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials oa9sm15049779pjb.31 - gsmtp
+
+12:20:43.466 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l1sm12791324pgn.35 - gsmtp
+
+12:20:51.762 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n14sm12945027pgd.80 - gsmtp
+
+12:20:59.854 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w7sm16326947pfu.180 - gsmtp
+
+12:21:07.921 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e15sm15481103pfv.23 - gsmtp
+
+12:21:16.017 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c7sm17543714pjs.17 - gsmtp
+
+12:21:24.562 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 145sm1147821pgf.88 - gsmtp
+
+12:21:32.693 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e12sm8497089pjs.35 - gsmtp
+
+12:21:40.787 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials kb1sm19766394pjb.56 - gsmtp
+
+12:21:49.078 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b9sm15345438pfm.122 - gsmtp
+
+12:21:57.594 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e21sm9030152pjr.5 - gsmtp
+
+12:22:05.849 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e21sm1130402pjr.4 - gsmtp
+
+12:22:14.707 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c13sm15700137pfv.20 - gsmtp
+
+12:22:22.774 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j17sm836577pfu.77 - gsmtp
+
+12:22:30.836 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j8sm14298278pfc.11 - gsmtp
+
+12:22:39.654 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j22sm16211703pfj.29 - gsmtp
+
+12:25:48.959 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:38:02.050 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:12:17.180 INFO - 929123714@qq.com hardware joined.
+13:12:37.711 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:15:52.399 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:23:00.842 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:25:33.263 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:32:14.547 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:37:32.639 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:45:56.552 INFO - 929123714@qq.com hardware joined.
+13:46:16.112 INFO - 929123714@qq.com hardware joined.
+13:46:20.560 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:47:22.640 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:47:33.122 INFO - 929123714@qq.com hardware joined.
+13:48:39.489 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:48:48.385 INFO - 929123714@qq.com hardware joined.
+13:48:52.748 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:49:54.801 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:50:04.458 INFO - 929123714@qq.com hardware joined.
+13:51:11.022 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:51:21.779 INFO - 929123714@qq.com hardware joined.
+13:51:58.025 INFO - 929123714@qq.com hardware joined.
+13:52:34.161 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:52:34.169 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:54:14.527 INFO - 929123714@qq.com hardware joined.
+13:54:31.934 INFO - 929123714@qq.com hardware joined.
+13:54:50.571 INFO - 929123714@qq.com hardware joined.
+13:54:52.306 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:55:21.428 INFO - 929123714@qq.com hardware joined.
+13:55:41.159 INFO - 929123714@qq.com hardware joined.
+13:56:05.124 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:56:24.934 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:56:56.976 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:57:16.654 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:57:32.830 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:57:41.005 INFO - 929123714@qq.com hardware joined.
+13:57:57.154 INFO - 929123714@qq.com hardware joined.
+13:58:34.001 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+13:59:39.165 INFO - 929123714@qq.com hardware joined.
+14:00:11.129 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:00:15.109 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:00:25.942 INFO - 929123714@qq.com hardware joined.
+14:01:00.754 INFO - 929123714@qq.com hardware joined.
+14:01:17.033 INFO - 929123714@qq.com hardware joined.
+14:01:52.980 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:01:52.983 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:01:52.990 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:02:02.405 INFO - 929123714@qq.com hardware joined.
+14:03:36.941 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:03:54.202 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:06:14.230 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:06:27.522 INFO - 929123714@qq.com hardware joined.
+14:06:44.010 INFO - 929123714@qq.com hardware joined.
+14:07:20.485 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:11:16.488 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:15:20.829 INFO - 929123714@qq.com hardware joined.
+14:15:29.645 INFO - 929123714@qq.com hardware joined.
+14:15:47.594 INFO - 929123714@qq.com hardware joined.
+14:15:48.970 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:16:02.458 INFO - 929123714@qq.com hardware joined.
+14:16:20.017 INFO - 929123714@qq.com hardware joined.
+14:16:36.981 INFO - 929123714@qq.com hardware joined.
+14:16:51.962 INFO - 929123714@qq.com hardware joined.
+14:16:56.982 INFO - 929123714@qq.com hardware joined.
+14:16:56.992 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:17:11.833 INFO - 929123714@qq.com hardware joined.
+14:17:22.499 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:17:35.482 INFO - 929123714@qq.com hardware joined.
+14:17:36.769 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:17:54.049 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:18:02.522 INFO - 929123714@qq.com hardware joined.
+14:18:11.827 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:18:28.425 INFO - 929123714@qq.com hardware joined.
+14:18:29.906 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:18:48.680 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:19:04.695 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:19:04.700 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:19:04.700 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:20:20.351 INFO - 929123714@qq.com hardware joined.
+14:20:56.282 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:21:07.256 INFO - 929123714@qq.com hardware joined.
+14:21:43.159 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:21:54.063 INFO - 929123714@qq.com hardware joined.
+14:22:29.990 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:22:39.292 INFO - 929123714@qq.com hardware joined.
+14:23:16.992 INFO - 929123714@qq.com hardware joined.
+14:23:39.777 INFO - 929123714@qq.com hardware joined.
+14:24:13.894 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:24:15.778 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:24:15.783 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:26:04.626 INFO - 929123714@qq.com hardware joined.
+14:26:40.569 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:27:20.015 INFO - 929123714@qq.com hardware joined.
+14:27:24.689 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:28:35.904 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:28:40.278 INFO - 929123714@qq.com hardware joined.
+14:30:01.368 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:30:20.011 INFO - 929123714@qq.com hardware joined.
+14:31:06.817 INFO - 929123714@qq.com hardware joined.
+14:35:37.784 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:37:35.224 INFO - 929123714@qq.com hardware joined.
+14:37:52.013 INFO - 929123714@qq.com hardware joined.
+14:38:28.149 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:38:37.379 INFO - 929123714@qq.com hardware joined.
+14:39:13.301 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:39:24.137 INFO - 929123714@qq.com hardware joined.
+14:40:00.214 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:40:09.545 INFO - 929123714@qq.com hardware joined.
+14:40:53.466 INFO - 929123714@qq.com hardware joined.
+14:41:29.396 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:41:29.402 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+14:41:39.944 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+14:42:04.325 INFO - 929123714@qq.com hardware joined.
+14:42:20.306 INFO - 929123714@qq.com hardware joined.
+14:43:29.139 INFO - 929123714@qq.com hardware joined.
+14:44:05.260 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+15:45:33.503 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:05:18.916 INFO - Using data dir '/home/pi/blynk'
+20:05:21.244 INFO - Region : local. Host : 127.0.1.1.
+20:05:22.754 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+20:05:22.852 INFO - Reports : 0
+20:05:22.854 INFO - Didn't find custom user certificates.
+20:05:22.872 INFO - Didn't find Let's Encrypt certificates.
+20:05:22.872 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+20:05:22.872 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+20:05:43.199 INFO - HTTP API and WebSockets server listening at 8080 port.
+20:05:43.204 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+20:05:43.206 INFO - Mqtt hardware server listening at 8440 port.
+20:07:44.555 INFO - 929123714@qq.com hardware joined.
+20:07:49.055 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:08:34.157 INFO - 929123714@qq.com hardware joined.
+20:09:41.220 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:11:15.644 INFO - 929123714@qq.com hardware joined.
+20:11:20.164 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:11:29.013 INFO - 929123714@qq.com hardware joined.
+20:11:34.652 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:11:46.524 INFO - 929123714@qq.com hardware joined.
+20:12:00.764 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:13:00.571 INFO - 929123714@qq.com hardware joined.
+20:13:09.384 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:13:18.697 INFO - 929123714@qq.com hardware joined.
+20:13:27.381 INFO - 929123714@qq.com hardware joined.
+20:13:42.184 INFO - 929123714@qq.com hardware joined.
+20:13:46.739 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:13:55.406 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:13:57.047 INFO - 929123714@qq.com hardware joined.
+20:14:10.327 INFO - 929123714@qq.com hardware joined.
+20:14:14.734 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:14:14.748 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:14:18.073 INFO - 929123714@qq.com hardware joined.
+20:14:25.076 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:14:32.921 INFO - 929123714@qq.com hardware joined.
+20:14:38.358 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:14:49.408 INFO - 929123714@qq.com hardware joined.
+20:14:56.888 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:15:09.052 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:15:20.173 INFO - 929123714@qq.com hardware joined.
+20:15:32.087 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:17:14.303 INFO - 929123714@qq.com hardware joined.
+20:17:29.083 INFO - 929123714@qq.com hardware joined.
+20:17:34.047 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:17:42.323 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:17:45.642 INFO - 929123714@qq.com hardware joined.
+20:17:51.608 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:17:59.253 INFO - 929123714@qq.com hardware joined.
+20:18:09.191 INFO - 929123714@qq.com hardware joined.
+20:18:37.227 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:19:36.083 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:19:50.850 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:24:04.216 INFO - 929123714@qq.com hardware joined.
+20:26:20.038 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:32:07.665 INFO - 929123714@qq.com hardware joined.
+20:32:38.803 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:33:23.625 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:34:44.953 INFO - 929123714@qq.com hardware joined.
+20:36:20.377 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:37:12.546 INFO - 929123714@qq.com hardware joined.
+20:37:36.784 INFO - 929123714@qq.com hardware joined.
+20:37:54.292 INFO - 929123714@qq.com hardware joined.
+20:38:04.098 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:38:17.868 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:38:52.866 INFO - 929123714@qq.com hardware joined.
+20:44:49.012 INFO - 929123714@qq.com hardware joined.
+20:44:54.206 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:45:28.643 INFO - 929123714@qq.com hardware joined.
+20:46:03.972 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:52:31.271 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:54:15.384 INFO - 929123714@qq.com hardware joined.
+20:55:38.794 INFO - 929123714@qq.com hardware joined.
+20:55:45.500 INFO - 929123714@qq.com hardware joined.
+20:56:37.489 INFO - 929123714@qq.com hardware joined.
+20:56:41.944 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:56:49.523 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+21:00:44.713 INFO - 929123714@qq.com hardware joined.
+21:00:52.824 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+21:01:02.619 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+21:04:05.504 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+21:07:29.928 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.

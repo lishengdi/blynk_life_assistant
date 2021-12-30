@@ -1,0 +1,126 @@
+17:50:00.501 INFO - Using data dir '/home/pi/blynk'
+17:50:02.810 INFO - Region : local. Host : 127.0.1.1.
+17:50:04.316 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+17:50:04.421 INFO - Reports : 0
+17:50:04.423 INFO - Didn't find custom user certificates.
+17:50:04.427 INFO - Didn't find Let's Encrypt certificates.
+17:50:04.427 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+17:50:04.428 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+17:50:08.822 INFO - HTTP API and WebSockets server listening at 8080 port.
+17:50:08.826 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+17:50:08.829 INFO - Mqtt hardware server listening at 8440 port.
+17:51:40.322 INFO - Using data dir '/home/pi/blynk'
+17:51:42.536 INFO - Region : local. Host : 127.0.1.1.
+17:51:43.885 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+17:51:43.981 INFO - Reports : 0
+17:51:43.982 INFO - Didn't find custom user certificates.
+17:51:43.987 INFO - Didn't find Let's Encrypt certificates.
+17:51:43.987 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+17:51:43.987 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+17:52:00.536 INFO - HTTP API and WebSockets server listening at 8080 port.
+17:52:00.540 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+17:52:00.542 INFO - Mqtt hardware server listening at 8440 port.
+17:53:45.009 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:02:51.697 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:12:03.026 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:12:04.635 INFO - 929123714@qq.com hardware joined.
+18:19:19.364 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+18:29:47.912 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:29:48.499 INFO - 929123714@qq.com hardware joined.
+18:33:12.595 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+18:35:14.639 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:35:31.676 INFO - 929123714@qq.com hardware joined.
+18:38:09.396 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+18:39:16.962 INFO - 929123714@qq.com hardware joined.
+18:39:28.399 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:45:53.177 INFO - 929123714@qq.com hardware joined.
+18:49:30.680 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:53:20.133 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+18:54:01.966 INFO - 929123714@qq.com hardware joined.
+18:57:50.098 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+19:02:30.050 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+19:12:28.494 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+19:12:31.861 INFO - 929123714@qq.com hardware joined.
+19:12:36.890 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:15:09.711 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:19:17.776 INFO - 929123714@qq.com hardware joined.
+19:19:33.034 INFO - 929123714@qq.com hardware joined.
+19:21:07.107 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:26:47.922 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+19:39:54.129 INFO - 929123714@qq.com hardware joined.
+19:41:28.659 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:42:57.331 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:48:29.206 INFO - 929123714@qq.com hardware joined.
+19:48:39.901 INFO - 929123714@qq.com hardware joined.
+19:49:09.639 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+19:49:11.703 INFO - 929123714@qq.com hardware joined.
+19:49:26.558 INFO - 929123714@qq.com hardware joined.
+19:49:37.376 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:49:51.104 INFO - 929123714@qq.com hardware joined.
+19:50:06.016 INFO - 929123714@qq.com hardware joined.
+19:50:20.783 INFO - 929123714@qq.com hardware joined.
+19:50:25.565 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:50:35.712 INFO - 929123714@qq.com hardware joined.
+19:50:52.190 INFO - 929123714@qq.com hardware joined.
+19:50:59.377 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:51:00.116 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:51:03.504 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:51:09.598 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:51:34.095 INFO - 929123714@qq.com hardware joined.
+19:51:40.270 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:55:47.343 INFO - 929123714@qq.com hardware joined.
+19:57:02.229 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+19:57:12.965 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:59:12.409 INFO - 929123714@qq.com hardware joined.
+19:59:21.132 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+19:59:44.886 INFO - 929123714@qq.com hardware joined.
+19:59:55.688 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:01:29.265 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:01:56.076 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:02:01.697 INFO - 929123714@qq.com hardware joined.
+20:02:02.922 INFO - 929123714@qq.com hardware joined.
+20:03:43.604 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:06:37.775 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:11:28.656 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:13:53.825 INFO - 929123714@qq.com hardware joined.
+20:19:35.214 INFO - 929123714@qq.com hardware joined.
+20:20:33.143 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:21:18.970 INFO - 929123714@qq.com hardware joined.
+20:21:38.639 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:21:59.915 INFO - 929123714@qq.com hardware joined.
+20:22:04.420 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:22:14.772 INFO - 929123714@qq.com hardware joined.
+20:22:19.754 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:23:39.236 INFO - 929123714@qq.com hardware joined.
+20:23:44.849 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:24:32.510 INFO - 929123714@qq.com hardware joined.
+20:25:16.191 INFO - 929123714@qq.com hardware joined.
+20:25:20.821 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:25:20.843 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:27:05.810 INFO - 929123714@qq.com hardware joined.
+20:27:10.793 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:33:14.681 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+20:40:47.439 INFO - 929123714@qq.com hardware joined.
+20:41:23.186 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:41:50.209 INFO - 929123714@qq.com hardware joined.
+20:42:05.028 INFO - 929123714@qq.com hardware joined.
+20:42:09.566 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:42:19.000 INFO - 929123714@qq.com hardware joined.
+20:42:33.754 INFO - 929123714@qq.com hardware joined.
+20:42:45.520 INFO - 929123714@qq.com hardware joined.
+20:42:59.650 INFO - 929123714@qq.com hardware joined.
+20:43:14.488 INFO - 929123714@qq.com hardware joined.
+20:43:24.809 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:43:41.454 INFO - 929123714@qq.com hardware joined.
+20:43:56.734 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:44:01.793 INFO - 929123714@qq.com hardware joined.
+20:44:09.497 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:44:23.049 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:44:36.493 INFO - 929123714@qq.com hardware joined.
+20:44:37.213 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:44:48.996 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:44:57.926 INFO - 929123714@qq.com hardware joined.
+20:45:10.712 INFO - 929123714@qq.com hardware joined.
+20:45:14.648 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:45:36.683 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443
+20:46:14.213 ERROR- Error sending push. Reason Network is unreachable: fcm.googleapis.com/2001:4860:4802:36:0:0:0:37:443

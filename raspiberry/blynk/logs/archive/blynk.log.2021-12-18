@@ -1,0 +1,20 @@
+23:47:49.823 INFO - Using data dir '/home/pi/blynk'
+23:47:50.019 INFO - Region : local. Host : 127.0.1.1.
+23:47:51.298 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+23:47:52.374 INFO - Reports : 0
+23:47:52.375 INFO - Didn't find custom user certificates.
+23:47:52.380 INFO - Didn't find Let's Encrypt certificates.
+23:47:52.380 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+23:47:52.380 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+23:48:12.588 INFO - HTTP API and WebSockets server listening at 8080 port.
+23:48:12.593 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+23:48:12.596 INFO - Mqtt hardware server listening at 8440 port.
+23:57:54.209 INFO - Updating config mail.properties. New body : 
+23:57:54.209 INFO - mail.smtp.starttls.enable=true
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.host=smtp.qq.com
+mail.smtp.username=929123714@qq.com
+mail.smtp.timeout=120000
+mail.smtp.password=lvtcucaihylybbec
+mail.smtp.connectiontimeout=30000

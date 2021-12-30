@@ -1,0 +1,175 @@
+09:56:03.867 INFO - Using data dir '/home/pi/blynk'
+09:56:05.972 INFO - Region : local. Host : 127.0.1.1.
+09:56:07.432 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+09:56:07.532 INFO - Reports : 0
+09:56:07.534 INFO - Didn't find custom user certificates.
+09:56:07.538 INFO - Didn't find Let's Encrypt certificates.
+09:56:07.538 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+09:56:07.539 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+09:56:18.908 INFO - HTTP API and WebSockets server listening at 8080 port.
+09:56:18.913 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+09:56:18.915 INFO - Mqtt hardware server listening at 8440 port.
+09:57:54.767 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+09:58:33.008 INFO - 929123714@qq.com hardware joined.
+10:07:05.419 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+10:07:41.275 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+10:10:31.388 INFO - 929123714@qq.com hardware joined.
+10:11:35.917 INFO - 929123714@qq.com hardware joined.
+10:13:12.159 INFO - 929123714@qq.com hardware joined.
+10:14:04.285 INFO - 929123714@qq.com hardware joined.
+10:17:01.471 INFO - 929123714@qq.com hardware joined.
+10:21:16.808 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+10:23:43.765 INFO - 929123714@qq.com hardware joined.
+10:24:36.919 INFO - 929123714@qq.com hardware joined.
+10:25:49.909 INFO - 929123714@qq.com hardware joined.
+10:26:26.645 INFO - 929123714@qq.com hardware joined.
+10:28:45.840 INFO - 929123714@qq.com hardware joined.
+10:29:42.474 INFO - 929123714@qq.com hardware joined.
+10:30:06.442 INFO - 929123714@qq.com hardware joined.
+10:31:17.709 INFO - 929123714@qq.com hardware joined.
+10:31:38.491 INFO - 929123714@qq.com hardware joined.
+10:32:35.740 INFO - 929123714@qq.com hardware joined.
+10:32:49.317 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+10:32:55.501 INFO - 929123714@qq.com hardware joined.
+10:34:14.248 INFO - 929123714@qq.com hardware joined.
+10:40:15.008 INFO - 929123714@qq.com hardware joined.
+10:40:30.687 INFO - 929123714@qq.com hardware joined.
+10:40:45.384 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+10:42:26.334 INFO - 929123714@qq.com hardware joined.
+10:42:59.266 INFO - 929123714@qq.com hardware joined.
+11:07:21.572 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:10:22.084 INFO - 929123714@qq.com hardware joined.
+11:11:49.896 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:20:02.672 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:20:24.304 INFO - 929123714@qq.com hardware joined.
+11:23:21.409 INFO - 929123714@qq.com hardware joined.
+11:28:24.662 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:33:43.961 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:33:51.013 INFO - 929123714@qq.com hardware joined.
+11:36:17.643 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+11:54:57.698 INFO - 929123714@qq.com hardware joined.
+11:55:34.806 INFO - 929123714@qq.com hardware joined.
+11:55:53.400 INFO - 929123714@qq.com hardware joined.
+11:56:08.046 INFO - 929123714@qq.com hardware joined.
+11:56:41.224 INFO - 929123714@qq.com hardware joined.
+12:00:24.966 INFO - 929123714@qq.com hardware joined.
+12:03:31.478 INFO - 929123714@qq.com hardware joined.
+12:05:33.034 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:05:49.298 INFO - 929123714@qq.com hardware joined.
+12:08:23.113 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:25:33.456 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:26:46.933 INFO - 929123714@qq.com hardware joined.
+12:29:43.980 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:30:29.636 WARN - User '929123714@qq.com' credentials are wrong. /192.168.31.231:62073
+12:30:45.611 WARN - User '929123714@qq.com' credentials are wrong. /192.168.31.231:62074
+12:30:49.089 WARN - User '929123714@qq.com' credentials are wrong. /192.168.31.231:62075
+12:32:02.417 WARN - User '929123714@qq.com' credentials are wrong. /192.168.31.231:62076
+12:32:47.157 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:33:52.795 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+12:55:09.416 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:26:56.992 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:30:57.222 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+13:31:27.418 INFO - 929123714@qq.com hardware joined.
+13:32:24.159 INFO - 929123714@qq.com hardware joined.
+13:32:48.235 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v16sm11726287pjh.57 - gsmtp
+
+13:32:56.790 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l145sm13000509pfd.117 - gsmtp
+
+13:33:04.167 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b9sm13662779pfm.127 - gsmtp
+
+13:33:11.793 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b4sm12309151pjm.17 - gsmtp
+
+16:48:07.517 INFO - Using data dir '/home/pi/blynk'
+16:48:09.871 INFO - Region : local. Host : 127.0.1.1.
+16:48:11.312 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+16:48:11.408 INFO - Reports : 0
+16:48:11.410 INFO - Didn't find custom user certificates.
+16:48:11.414 INFO - Didn't find Let's Encrypt certificates.
+16:48:11.414 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+16:48:11.415 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+16:48:18.865 INFO - HTTP API and WebSockets server listening at 8080 port.
+16:48:18.870 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+16:48:18.872 INFO - Mqtt hardware server listening at 8440 port.
+16:48:57.456 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+16:50:12.118 INFO - 929123714@qq.com hardware joined.
+16:58:57.294 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+16:59:05.409 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v70sm11179354pgd.91 - gsmtp
+
+16:59:13.646 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v8sm7252944pfu.68 - gsmtp
+
+16:59:22.973 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w7sm13202794pfw.133 - gsmtp
+
+16:59:52.985 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+17:00:23.035 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+17:00:53.081 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+17:01:23.103 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+17:01:30.918 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials om10sm13604239pjb.13 - gsmtp
+
+17:01:38.115 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q69sm15785170pjq.41 - gsmtp
+
+17:01:45.335 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e20sm13881031pfv.219 - gsmtp
+
+17:01:52.992 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials br24sm15918933pjb.40 - gsmtp
+
+17:02:00.133 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u3sm14076969pfk.82 - gsmtp
+
+17:02:07.343 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f22sm10292906pfc.183 - gsmtp
+
+17:02:14.849 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t25sm3525665pgv.9 - gsmtp
+
+17:02:22.036 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j190sm11525718pge.70 - gsmtp
+
+17:02:29.660 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q9sm11566251pjg.1 - gsmtp
+
+17:02:37.432 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k19sm14094767pff.5 - gsmtp
+
+17:02:44.596 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b65sm13382622pfg.209 - gsmtp
+
+17:02:51.828 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w7sm13211399pfw.133 - gsmtp
+
+17:02:59.011 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials lc3sm16253118pjb.2 - gsmtp
+
+17:03:06.764 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q9sm11567295pjg.1 - gsmtp
+
+17:03:13.964 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials i11sm13698987pfq.206 - gsmtp
+
+17:03:21.102 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g14sm12743092pjk.29 - gsmtp
+
+17:03:28.275 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e20sm13885404pfv.219 - gsmtp
+
+17:03:36.163 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b18sm13821502pfl.121 - gsmtp
+
+17:03:43.343 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k19sm14097545pff.5 - gsmtp
+
+17:03:50.593 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k6sm11031397pfu.96 - gsmtp
+
+17:03:58.291 ERROR- Error sending email from hardware. From user 929123714@qq.com, to : 929123714@qq.com. Reason : 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e20sm13886662pfv.219 - gsmtp
+

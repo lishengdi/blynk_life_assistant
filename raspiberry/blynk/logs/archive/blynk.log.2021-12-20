@@ -1,0 +1,105 @@
+00:19:40.239 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+00:27:56.897 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+00:42:54.035 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+00:53:22.196 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:04:34.652 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:12:26.929 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:15:13.619 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:17:50.534 WARN - User '929123714@qq.comad' not registered. /192.168.31.96:61806
+01:17:59.609 WARN - User '929123714@qq.comad' not registered. /192.168.31.96:61807
+01:18:07.177 WARN - User '929123714@qq.comad' not registered. /192.168.31.96:61808
+01:18:08.818 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:19:06.028 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:41:40.947 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:56:00.858 INFO - Using data dir '/home/pi/blynk'
+01:56:05.216 INFO - Region : local. Host : 127.0.1.1.
+01:56:06.641 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+01:56:06.742 INFO - Reports : 0
+01:56:06.744 INFO - Didn't find custom user certificates.
+01:56:06.749 INFO - Didn't find Let's Encrypt certificates.
+01:56:06.749 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+01:56:06.749 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+01:56:19.975 INFO - HTTP API and WebSockets server listening at 8080 port.
+01:56:19.980 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+01:56:19.983 INFO - Mqtt hardware server listening at 8440 port.
+01:56:57.200 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:58:39.874 INFO - Creating new dashboard.
+01:59:00.545 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+01:59:10.219 ERROR- Error sending email auth token to user : 929123714@qq.com. Error: Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+02:02:37.150 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:15:10.198 INFO - 929123714@qq.com hardware joined.
+02:16:07.031 INFO - 929123714@qq.com hardware joined.
+02:16:18.698 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:20:27.324 INFO - 929123714@qq.com hardware joined.
+02:22:19.034 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:22:31.792 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:23:23.150 INFO - 929123714@qq.com hardware joined.
+02:24:14.034 INFO - 929123714@qq.com hardware joined.
+02:24:44.547 INFO - 929123714@qq.com hardware joined.
+02:25:42.578 INFO - 929123714@qq.com hardware joined.
+02:28:10.844 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:30:48.257 INFO - Creating new dashboard.
+02:31:08.691 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:31:18.401 ERROR- Error sending email auth token to user : 929123714@qq.com. Error: Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+02:34:42.465 INFO - 929123714@qq.com hardware joined.
+02:34:52.259 INFO - 929123714@qq.com hardware joined.
+02:37:01.936 INFO - 929123714@qq.com hardware joined.
+02:38:19.655 INFO - 929123714@qq.com hardware joined.
+02:39:11.681 INFO - 929123714@qq.com hardware joined.
+02:39:26.126 INFO - 929123714@qq.com hardware joined.
+02:43:43.254 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+02:45:23.332 INFO - 929123714@qq.com hardware joined.
+02:47:05.829 INFO - 929123714@qq.com hardware joined.
+02:48:36.776 INFO - 929123714@qq.com hardware joined.
+02:50:27.762 INFO - 929123714@qq.com hardware joined.
+02:50:49.507 INFO - 929123714@qq.com hardware joined.
+02:51:52.244 INFO - 929123714@qq.com hardware joined.
+21:09:11.888 INFO - Using data dir '/home/pi/blynk'
+21:09:13.990 INFO - Region : local. Host : 127.0.1.1.
+21:09:15.368 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+21:09:15.468 INFO - Reports : 0
+21:09:15.470 INFO - Didn't find custom user certificates.
+21:09:15.474 INFO - Didn't find Let's Encrypt certificates.
+21:09:15.475 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+21:09:15.475 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:09:28.912 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:09:28.917 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:09:28.920 INFO - Mqtt hardware server listening at 8440 port.
+21:09:29.812 INFO - 929123714@qq.com hardware joined.
+21:11:02.158 INFO - 929123714@qq.com hardware joined.
+21:11:13.039 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+21:15:59.295 INFO - 929123714@qq.com hardware joined.
+21:18:35.967 INFO - 929123714@qq.com hardware joined.
+21:19:10.787 INFO - 929123714@qq.com hardware joined.
+21:21:59.959 INFO - 929123714@qq.com hardware joined.
+21:27:27.943 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+21:59:52.429 INFO - 929123714@qq.com hardware joined.
+22:00:06.976 INFO - 929123714@qq.com hardware joined.
+22:06:14.091 INFO - 929123714@qq.com hardware joined.
+22:06:21.557 INFO - 929123714@qq.com hardware joined.
+22:07:00.878 INFO - 929123714@qq.com hardware joined.
+22:09:16.099 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+22:21:59.062 INFO - 929123714@qq.com hardware joined.
+22:23:08.935 INFO - 929123714@qq.com hardware joined.
+22:33:39.782 INFO - 929123714@qq.com hardware joined.
+22:33:51.621 INFO - 929123714@qq.com hardware joined.
+22:34:16.137 INFO - 929123714@qq.com hardware joined.
+22:34:33.734 INFO - 929123714@qq.com hardware joined.
+22:34:39.957 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+22:53:03.592 INFO - 929123714@qq.com hardware joined.
+22:53:34.407 INFO - 929123714@qq.com hardware joined.
+22:54:00.819 INFO - 929123714@qq.com hardware joined.
+22:56:30.234 INFO - 929123714@qq.com hardware joined.
+22:58:12.017 INFO - 929123714@qq.com hardware joined.
+22:58:24.877 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+22:59:05.672 INFO - 929123714@qq.com hardware joined.
+23:01:19.134 INFO - 929123714@qq.com hardware joined.
+23:03:47.452 INFO - 929123714@qq.com hardware joined.
+23:04:22.607 INFO - 929123714@qq.com hardware joined.
+23:04:40.317 INFO - 929123714@qq.com hardware joined.
+23:08:49.466 INFO - 929123714@qq.com hardware joined.
+23:09:34.892 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:17:25.268 INFO - 929123714@qq.com hardware joined.
+23:35:01.732 INFO - 929123714@qq.com hardware joined.
+23:47:55.791 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:52:25.178 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.

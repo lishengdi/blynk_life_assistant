@@ -1,0 +1,34 @@
+00:03:49.311 INFO - User admin@blynk.cc successfully removed.
+00:08:14.551 INFO - Using data dir '/home/pi/blynk'
+00:08:16.560 INFO - Region : local. Host : 127.0.1.1.
+00:08:17.886 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+00:08:17.987 INFO - Reports : 0
+00:08:17.989 INFO - Didn't find custom user certificates.
+00:08:17.993 INFO - Didn't find Let's Encrypt certificates.
+00:08:17.993 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+00:08:17.993 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+00:08:24.147 INFO - HTTP API and WebSockets server listening at 8080 port.
+00:08:24.152 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+00:08:24.155 INFO - Mqtt hardware server listening at 8440 port.
+00:12:58.215 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+00:13:13.689 INFO - Creating new dashboard.
+00:13:34.202 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+00:13:44.108 ERROR- Error sending email auth token to user : 929123714@qq.com. Error: Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+22:31:03.715 INFO - Using data dir '/home/pi/blynk'
+22:31:05.730 INFO - Region : local. Host : 127.0.1.1.
+22:31:07.178 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+22:31:07.276 INFO - Reports : 0
+22:31:07.277 INFO - Didn't find custom user certificates.
+22:31:07.281 INFO - Didn't find Let's Encrypt certificates.
+22:31:07.281 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+22:31:07.282 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/blynk', key : '/home/pi/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+22:31:18.471 INFO - HTTP API and WebSockets server listening at 8080 port.
+22:31:18.475 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+22:31:18.478 INFO - Mqtt hardware server listening at 8440 port.
+22:39:16.531 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+22:52:51.921 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:50:23.940 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:50:23.994 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:52:21.002 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:52:56.328 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
+23:59:30.369 INFO - 929123714@qq.com Blynk-app (iOS-22608) joined.
